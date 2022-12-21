@@ -1,0 +1,6 @@
+[submodule "devils-advocate-firebase"]
+	path = devils-advocate-firebase
+	url = https://github.com/phrazzld/devils-advocate-firebase.git
+[submodule "devils-advocate-ext"]
+	path = devils-advocate-ext
+	url = https://github.com/phrazzld/devils-advocate-ext.git
